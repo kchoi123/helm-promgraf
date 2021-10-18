@@ -15,6 +15,8 @@
 - kube-state-metrics
 - Grafana
 
+## Installation
+
 Add to helm3 repository:
 ```sh
 $ helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
