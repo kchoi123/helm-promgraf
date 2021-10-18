@@ -44,6 +44,8 @@ password: prom-operator
 $ kubectl port-forward -n prom prom-grafana-6c578f9954-rjdmk 3000
 ```
 
+## Clean Up
+
 Uninstall
 ```sh
 $ helm uninstall prom -n prom
